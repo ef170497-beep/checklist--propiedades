@@ -81,7 +81,7 @@ const SECCIONES_CHECKLIST = [
   },
 ];
 
-const WHATSAPP_NUMERO = "523221234567";
+const WHATSAPP_NUMERO = "523331910319";
 
 const C = {
   fondo: "#F5F2ED",
